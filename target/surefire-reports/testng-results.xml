@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39" started-at="2021-07-30T21:47:16 IST" finished-at="2021-07-30T21:47:16 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39" started-at="2021-07-30T21:47:16 IST" finished-at="2021-07-30T21:47:16 IST">
+      <class name="com.addition.Addition">
+        <test-method status="PASS" signature="helloPrinter(java.lang.String)[pri:0, instance:com.addition.Addition@1565ec2]" name="helloPrinter" duration-ms="4" started-at="2021-07-30T21:47:16 IST" finished-at="2021-07-30T21:47:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloPrinter -->
+      </class> <!-- com.addition.Addition -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
